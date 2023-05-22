@@ -3,5 +3,5 @@
 ## 01_docker
 <details>
 <summary>Домашнее задание к занятию «1.1. Контейнеризация (Docker)»</summary>
-[Ссылка](../ibdev-homeworks/01_docker/README.md)
+https://github.com/KErushnikov/ibdev-homeworks/tree/main/01_docker
 </details>

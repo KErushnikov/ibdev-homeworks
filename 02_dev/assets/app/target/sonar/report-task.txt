@@ -1,0 +1,6 @@
+projectKey=ru.netology:ibdev
+serverUrl=http://sonarqube:9000
+serverVersion=8.6.1.40680
+dashboardUrl=http://sonarqube:9000/dashboard?id=ru.netology%3Aibdev
+ceTaskId=AYhYYNVFrvS3l_bgfuiM
+ceTaskUrl=http://sonarqube:9000/api/ce/task?id=AYhYYNVFrvS3l_bgfuiM

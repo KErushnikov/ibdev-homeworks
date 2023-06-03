@@ -17,3 +17,9 @@ https://github.com/KErushnikov/ibdev-homeworks/tree/main/02_dev
 <summary>Домашнее задание к занятию «1.3. Системы контроля версий и CI/CD»</summary>
 https://github.com/KErushnikov/ibdev-homeworks/tree/main/03_cicd
 </details>
+
+## 04_dbms
+<details>
+<summary>Домашнее задание к занятию «2.1. Системы хранения данных (СУБД)»</summary>
+https://github.com/KErushnikov/ibdev-homeworks/tree/main/04_dbms
+</details>

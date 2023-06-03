@@ -23,3 +23,9 @@ https://github.com/KErushnikov/ibdev-homeworks/tree/main/03_cicd
 <summary>Домашнее задание к занятию «2.1. Системы хранения данных (СУБД)»</summary>
 https://github.com/KErushnikov/ibdev-homeworks/tree/main/04_dbms
 </details>
+
+## 05_storage
+<details>
+<summary>Домашнее задание к занятию «2.2. Системы хранения данных: кеши, очереди, файловая система»</summary>
+https://github.com/KErushnikov/ibdev-homeworks/tree/main/05_storage
+</details>

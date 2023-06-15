@@ -1,0 +1,2 @@
+<button onclick="alerted();">CLICK</button>
+<script src="C:\Git\ibdev-homeworks\07_js\assets\alert0.js"></script>
